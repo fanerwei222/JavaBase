@@ -1,4 +1,4 @@
-package main.base.floate;
+package main.base.float;
 
 /**
  * 浮点测试
