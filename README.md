@@ -1,2 +1,2 @@
-# JavaBaseDataType Java基础数据类型
-Java基础数据类型
+# JavaBase Java基础
+Java基础
